@@ -1,2 +1,5 @@
 # Song-recommender-based-on-emotions
-In this project, we used Machine learning to detect the emotions from the face of the person and then on the basis of emotion detected the system would recommend a song.
+
+• Build a Machine learning model using Convolutional Neural Network(CNN).
+• This model was then used to predict emotions in real-time and recommend a song.
+• The project also included a Graphical User Interface(GUI) for users.
